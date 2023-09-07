@@ -8,7 +8,7 @@ const char* RecommendMeAFood(char firstLetter){
         return "apple";
     else if(firstLetter=='b' || firstLetter=='B')
         return "banana";
-    else if(firstLetter=='C' || firstLetter=='C')
+    else if(firstLetter=='c' || firstLetter=='C')
         return "choclate cake";
     else return "pizza";
 }
